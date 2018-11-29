@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Loss Function -- similarity"
+title: "Loss Functions  -- similarity"
 date: 2018-11-29
 comments: true
 ---
